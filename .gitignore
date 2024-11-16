@@ -1,3 +1,5 @@
 
 venv/
 *.csv
+*.gitignore
+.DS_Store
